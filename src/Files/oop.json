@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "ooop",
+    "coordinates": {
+      "x": 12,
+      "y": 12
+    },
+    "creationDate": "2021-09-14T22:42:27.645+03:00[Europe/Moscow]",
+    "oscarsCount": 12,
+    "totalBoxOffice": 12,
+    "genre": "HORROR",
+    "mpaaRating": "PG",
+    "screenwriter": {
+      "name": "ockpoe",
+      "height": 986,
+      "eyeColor": "BLUE",
+      "hairColor": "BLUE",
+      "nationality": "FRANCE"
+    }
+  }
+]
